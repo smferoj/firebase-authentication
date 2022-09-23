@@ -1,0 +1,32 @@
+h1, h2{
+    text-align: center;
+    padding-top: 5rem;
+
+  
+}
+
+.sign-another-provider{
+     
+    
+}
+
+.sign-another-providers{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ gap: 1rem;
+
+}
+
+.sign-another-providers button{
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+
+.logout-btn{
+    position: absolute;
+    top:1rem;
+    right:5rem
+   
+
+}

@@ -1,0 +1,13 @@
+.user_wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.user_wrapper h3{
+    color: white;
+    padding: 1rem;
+     
+    
+}
